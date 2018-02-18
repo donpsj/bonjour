@@ -1,0 +1,23 @@
+<!--
+    must use absolute path for action
+    OR
+    leave action out completely and will default to the route
+    that it was posted from
+-->
+<form action="/hello" method="POST">
+    <label>
+        Enter Name
+        <input type="text" name="name">
+    </label>
+    <label>
+    Pick a language
+        <select name="language">
+            <option value="English">English</option>
+            <option value="Spanish">Spanish</option>
+            <option value="Turkish">Turkish</option>
+            <option value="French">French</option>
+            <option value="Hindi">Hindi</option>
+        </select>
+    </label>
+    <input type="submit" value="Submit">
+</form> 

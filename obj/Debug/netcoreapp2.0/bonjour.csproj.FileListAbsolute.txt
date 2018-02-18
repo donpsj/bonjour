@@ -1,0 +1,10 @@
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/bin/Debug/netcoreapp2.0/bonjour.deps.json
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/bin/Debug/netcoreapp2.0/bonjour.runtimeconfig.json
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/bin/Debug/netcoreapp2.0/bonjour.runtimeconfig.dev.json
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/bin/Debug/netcoreapp2.0/bonjour.dll
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/bin/Debug/netcoreapp2.0/bonjour.pdb
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/obj/Debug/netcoreapp2.0/bonjour.csproj.CoreCompileInputs.cache
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/obj/Debug/netcoreapp2.0/bonjour.AssemblyInfoInputs.cache
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/obj/Debug/netcoreapp2.0/bonjour.AssemblyInfo.cs
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/obj/Debug/netcoreapp2.0/bonjour.dll
+/Users/vamp/Documents/Code/LaunchCode/unit3/bonjour/obj/Debug/netcoreapp2.0/bonjour.pdb
